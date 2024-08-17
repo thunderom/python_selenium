@@ -1,0 +1,7 @@
+tests/__pycache__/
+tests/helper/__pycache__/
+.DS_Store
+my_allure_results/
+env/
+.vscode/
+.pytest_cache/
