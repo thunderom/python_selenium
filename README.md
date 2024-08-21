@@ -1,4 +1,4 @@
-<h2>UI Автотесты на Python с применением библиотеки Selenium</h2>
+<h2>UI Автотесты на Python с применением фреймворка Pytest и Selenium</h2>
 
 > **Статус проекта:**
 > Публичный проект: https://test-shop.qa.studio/
@@ -40,7 +40,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-4. Устанавливаем библиотеки
+4. Устанавливаем фреймворки
 
 ``` markdown
 python3 -m pip3 install selenium
